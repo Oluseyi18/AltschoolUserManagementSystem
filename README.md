@@ -14,4 +14,4 @@ Link to demo project [https://AltschoolUserManagementSystem.oluwaseyiajibad.repl
 ## Developer Information
 
 - Website [`Eezi-Codez`](https://oluseyi18.github.io/Eezi-Codez/).
-- Linkedin [`Taiwo Boluwatife`](https://www.linkedin.com/in/oluseyi-ajibade-8652a11b6/).
+- Linkedin [`Oluseyi Ajibade`](https://www.linkedin.com/in/oluseyi-ajibade-8652a11b6/).
