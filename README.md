@@ -4,7 +4,7 @@
 
 ## Testable link
 
-Link to demo project [https://AltschoolUserManagementSystem.oluwaseyiajibad.repl.co](https://AltschoolUserManagementSystem.oluwaseyiajibad.repl.co).
+Link to demo project [https://altschoolusermanagementsystem.vercel.app/](https://altschoolusermanagementsystem.vercel.app/).
 ## Built With
 
 - React js
